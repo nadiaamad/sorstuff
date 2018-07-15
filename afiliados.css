@@ -3,7 +3,6 @@ collation-server=utf8_unicode_ci
 default-character-set=utf8
 default-collation=utf8_unicode_ci
 @charset "UTF-8";
-
 .box3 {
   width: 460px;
   background-color: #080808;
@@ -11,14 +10,12 @@ default-collation=utf8_unicode_ci
   outline-offset: -25px;
   padding: 1px;
 }
-
 .box4 {
   width: 395px;
   height: 100px;
   border: 10px solid #111;
   margin: 20px 0px 0px 0px;
 }
-
 .box5 {
   width: 412px;
   height: 170px;
@@ -27,7 +24,6 @@ default-collation=utf8_unicode_ci
   outline-offset: -25px;
   background-color: #0f0f0f;
 }
-
 .txt8 {
   font-family: Lato;
   font-weight: bold;
@@ -39,7 +35,6 @@ default-collation=utf8_unicode_ci
   padding: 70px 0px 0px 0px;
   text-shadow: 1px 1px #111;
 }
-
 .txt9 {
   font-family: Roboto;
   font-size: 11px;
